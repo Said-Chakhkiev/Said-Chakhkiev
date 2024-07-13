@@ -1,4 +1,4 @@
-<img src="ыаывавыаыаыавыаываыавы" align="left" style="width: 100%" />  
+<img src="https://github.com/Said-Chakhkiev/Said-Chakhkiev/blob/main/image/jester.gif" align="left" style="width: 100%" />  
   
 
 <br/>  
